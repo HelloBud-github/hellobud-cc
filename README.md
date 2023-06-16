@@ -6,7 +6,7 @@
 * [Installation Requirements](#installation-requirements)
 * [Download Folder](#download-folder)
 * [How To Use](#how-to-use)
-* [Team](#author)
+* [Team](#cloud-team)
 
 
 ## Brief Description
