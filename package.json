@@ -1,0 +1,28 @@
+{
+  "name": "hellobud",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "firebase-admin": "^11.9.0",
+    "jsonwebtoken": "^9.0.0",
+    "morgan": "~1.9.1"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HelloBud-github"
+  },
+  "keywords": [
+    "hellobud"
+  ],
+  "author": "Erlangga Putera Setiawan",
+  "license": "ISC",
+  "description": ""
+}
